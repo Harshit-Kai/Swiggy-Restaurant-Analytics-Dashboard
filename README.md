@@ -76,19 +76,19 @@ The dataset contains restaurant-related information, including:
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard_home.png)
+![Dashboard Overview](Images/dashboard_home.png)
 
 ### Restaurant Analysis
 
-![Restaurant Analysis](images/restaurant_analysis.png)
+![Restaurant Analysis](Images/restaurant_analysis.png)
 
 ### Price Analysis
 
-![Price Analysis](images/price_analysis.png)
+![Price Analysis](Images/price_analysis.png)
 
 ### KPI Summary
 
-![KPI Summary](images/kpi_summary.png)
+![KPI Summary](Images/kpi_summary.png)
 
 ## Key Insights
 
